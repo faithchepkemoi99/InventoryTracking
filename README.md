@@ -16,3 +16,4 @@ Import SQL and Use with MySQL Workbench
 3. Run the script to create all necessary tables and insert sample data.
 
 
+![alt text](image.png)
